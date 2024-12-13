@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#first-div {
+    max-width: 1604px;
+    width: 100%;
+    background: #FFAEAF;
+    margin: 0 auto;
+    margin-top: 64px;
+    padding: 96px 0px;
+
+}
+
+#mainContainer {
+
+    max-width: 1412px;
+    width: 100%;
+    margin: 0 auto;
+    background: white;
+    padding: 96px 0px;
+
+
+
+}
+
+#dd {
+    margin: 0 auto;
+    color: #ED00A6;
+    text-align: center;
+}
+
+#main {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 12px;
+}
+
+#maincont {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+#supra {
+    margin-top: 96px;
+    width: 1280px;
+}
+
+#super {
+    width: 1280;
+    margin-top: 96px;
+    text-align: right;
+}
+
+#milta {
+    width: 1280px;
+    margin-top: 96px;
+    
+}
